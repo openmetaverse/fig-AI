@@ -22,7 +22,7 @@ Below is a list of all prior completed meetings and related resources.
 
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0001 | 2023-00-00 | 0000 UTC | n/a | n/a | Link | Link |
+| 0001 | 2023-00-00 | 1730 UTC | [Link](https://github.com/Open-MV/fig-AI/discussions/2) | n/a | Link | Link |
 
 # General Resources
 
