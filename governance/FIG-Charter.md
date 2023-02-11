@@ -3,7 +3,7 @@
 
 ## Overview of FIG
 
-Two concise lines explaining what this FIG does with bullet points of the major responsibilities
+The Artificial Intelligence Foundational Interest Group (FIG) is dedicated to fostering open source and standards for the creation, management, and operation of artificial intelligence agents, NPCs, trainers, and augmentations that may alter or interact with experiences or worlds. This includes the agents that directly or indirectly communicate with an end user or gather information to train or report in any environment.
 
 - Responsibility
 
@@ -13,7 +13,14 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## Scope
 
-- General scope of work not specific in nature
+* Create a modular and extensible metadata schema to expose the capabilities and intent of the AI agent.
+* Define interoperable interfaces and accessibility for agents to access and act within a world or simulation.
+* Define a baseline of ethical terms, biases, and definitions for how an AI may operate, given its capabilities and intent.
+* Identify models where an AI or AI NPC may influence an experience in any simulation or world.
+* Define user models and metadata schemas to define interoperability of generative capabilities of AI agents in media-related areas, including audio, video and photos.
+* Create interoperable interfaces for exposure of AI agents in security models for monitoring, threat detection, and actions.
+* Define metadata schema to expose IP terms for creation and fair use of AI-generated content across experiences and worlds.
+* Define object schema to expose coordinates of objects, users, relationships, and environment data for AI ingestion in training, the transformation of objects, and autonomous interactivity.
 
 ## In scope
 
@@ -30,11 +37,10 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## FIG Links and lists:
 
-- Joining this FIG
-- Slack/Discord
-- Mailing list
-- Issues/PRs
-- Meeting agenda & Notes
+- [Discord](https://discord.gg/openmetaverse)
+- [Mailing list](https://lists.openmv.org/g/fig-ai)
+- [Issues/PRs](https://github.com/Open-MV/fig-AI/issues)
+- [Meeting agenda & Notes](https://github.com/Open-MV/fig-AI/discussions/categories/meetings)
 
 ## Roles and Organization Management
 
