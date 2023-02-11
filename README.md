@@ -7,7 +7,7 @@ This repository holds materials for the Open Metaverse Foundation Interest Group
 The Artificial Intelligence Foundational Interest Group (FIG) is dedicated to fostering open source and standards for the creation, management, and operation of artificial intelligence agents, NPCs, trainers, and augmentations that may alter or interact with experiences or worlds. This includes the agents that directly or indirectly communicate with an end user or gather information to train or report in any environment.
 See the [FIG's charter](governance/FIG-Charter.md) for full details.
 
-## What does the SIG do?
+## What does the Foundational Interest Group do?
 
 * Create a modular and extensible metadata schema to expose the capabilities and intent of the AI agent.
 * Define interoperable interfaces and accessibility for agents to access and act within a world or simulation.
