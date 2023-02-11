@@ -5,8 +5,6 @@
 
 The Artificial Intelligence Foundational Interest Group (FIG) is dedicated to fostering open source and standards for the creation, management, and operation of artificial intelligence agents, NPCs, trainers, and augmentations that may alter or interact with experiences or worlds. This includes the agents that directly or indirectly communicate with an end user or gather information to train or report in any environment.
 
-- Responsibility
-
 ## Goals
 
 - Major goals that FIG seeks to generally achieve
