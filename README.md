@@ -38,4 +38,4 @@ The OMF cannot work without the help and input from as many of its community mem
 * [Upcoming meeting agendas](https://github.com/Open-MV/fig-AI/discussions/categories/meetings?discussions_q=is%3Aunlocked+category%3AMeetings)
 * [Archived meeting notes](meetings/readme.md)
 
-Some of this guide was influenced by the [SIG-Simulation Readme](https://github.com/o3de/sig-simulation/blob/main/README.md). Thanks to the contributors there.
+
