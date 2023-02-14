@@ -2,6 +2,8 @@
 
 This repository holds materials for the Open Metaverse Foundation Interest Group for Artifical Intellidence (FIG AI).
 
+## View [weekly meetings](./meetings/readme.md#Previous-Meetings) with the agenda, notes and audio recordings.
+
 ## Description of FIG Artificial Intelligence
 
 The Artificial Intelligence Foundational Interest Group (FIG) is dedicated to fostering open source and standards for the creation, management, and operation of artificial intelligence agents, NPCs, trainers, and augmentations that may alter or interact with experiences or worlds. This includes the agents that directly or indirectly communicate with an end user or gather information to train or report in any environment.
