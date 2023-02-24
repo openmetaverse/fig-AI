@@ -24,6 +24,7 @@ Below is a list of all prior completed meetings and related resources.
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
 | 0001 | 2023-02-09 | 1730 UTC | [Link](https://github.com/Open-MV/fig-AI/discussions/2) | n/a | Link | Link |
 | 0002 | 2023-02-16 | 1730 UTC | [Link](https://github.com/Open-MV/fig-AI/discussions/3) |  [Recording](https://github.com/Open-MV/fig-AI/raw/main/meetings/media/ai-20230216.m4a) | N/A | N/A |
+| 0003 | 2023-02-23 | 1730 UTC | [Link](https://github.com/Open-MV/fig-AI/discussions/4) |  [Recording](https://github.com/Open-MV/fig-AI/raw/main/meetings/media/ai-20230223.m4a) | N/A | N/A |
 
 # General Resources
 
