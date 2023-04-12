@@ -12,7 +12,7 @@ Open Metaverse Foundation cannot work without the help and input from as many of
 
 ## Agenda Items
 
-You can find a link to the proposed agenda for the next call in the table below. The agenda for each meeting is saved as [a discussion on Github](https://github.com/Open-MV/fig-ai/discussions/categories/meetings).
+You can find a link to the proposed agenda for the next call in the table below. The agenda for each meeting is saved as [a discussion on Github](https://github.com/openmetaverse/fig-ai/discussions/categories/meetings).
 
 Please feel free to propose any of your topics, thoughts, or areas you feel are important to discuss.
 
@@ -22,13 +22,14 @@ Below is a list of all prior completed meetings and related resources.
 
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0001 | 2023-02-09 | 1730 UTC | [Link](https://github.com/Open-MV/fig-AI/discussions/2) | n/a | Link | Link |
-| 0002 | 2023-02-16 | 1730 UTC | [Link](https://github.com/Open-MV/fig-AI/discussions/3) |  [Recording](https://github.com/Open-MV/fig-AI/raw/main/meetings/media/ai-20230216.m4a) | N/A | N/A |
-| 0003 | 2023-02-23 | 1730 UTC | [Link](https://github.com/Open-MV/fig-AI/discussions/4) |  [Recording](https://github.com/Open-MV/fig-AI/raw/main/meetings/media/ai-20230223.m4a) | N/A | N/A |
+| 0001 | 2023-02-09 | 1730 UTC | [Link](https://github.com/openmetaverse/fig-AI/discussions/2) | n/a | Link | Link |
+| 0002 | 2023-02-16 | 1730 UTC | [Link](https://github.com/openmetaverse/fig-AI/discussions/3) |  [Recording](https://github.com/openmetaverse/fig-AI/raw/main/meetings/media/ai-20230216.m4a) | N/A | N/A |
+| 0003 | 2023-02-23 | 1730 UTC | [Link](https://github.com/openmetaverse/fig-AI/discussions/4) |  N/A | N/A | N/A |
+| 0004 | 2023-03-09 | 1730 UTC | N/A |  [Recording](https://github.com/openmetaverse/fig-AI/raw/main/meetings/media/ai-20230309.m4a) | N/A | N/A |
 
 # General Resources
 
-See [OMF Resources](https://github.com/open-mv/foundation) for additional information related to any FIG in OMF.
+See [OMF Resources](https://github.com/openmetaverse/foundation) for additional information related to any FIG in OMF.
 
 # Licensing
 
